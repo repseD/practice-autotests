@@ -1,0 +1,10 @@
+venv/
+
+__pycache__/
+*.pyc
+
+allure-results/
+
+qautils-sample-project.zip
+env
+.env
